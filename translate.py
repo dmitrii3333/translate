@@ -9,4 +9,4 @@ word = input("Введите непонятное слово (большими �
 if word in meme_dict.keys():
     print(meme_dict[word])
 else:
-    print('I dont have that')
+    print('I dont have that/у меня этого нет')
